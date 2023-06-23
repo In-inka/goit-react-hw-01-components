@@ -1,0 +1,7 @@
+.friend-list {
+  margin: 0 auto;
+  margin-bottom: 50px;
+  width: 150px;
+
+  box-shadow: 1px 1px 14px 4px rgba(0, 0, 0, 0.22);
+}

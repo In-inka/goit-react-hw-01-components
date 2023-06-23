@@ -1,0 +1,20 @@
+.item {
+  padding: 5px;
+  margin-bottom: 5px;
+
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  gap: 10px;
+
+  background-color: white;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.avatar {
+  border: 1px solid inherit;
+  border-radius: 50%;
+}
