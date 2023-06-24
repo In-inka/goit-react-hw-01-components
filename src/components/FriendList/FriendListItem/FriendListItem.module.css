@@ -17,4 +17,5 @@
 .avatar {
   border: 1px solid inherit;
   border-radius: 50%;
+  width: 48px;
 }
